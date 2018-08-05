@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=personalAssistant
+comment1.params=
+comment1.target=void\ main()
+comment2.params=dataSet
+comment2.target=double[]\ sortLeastToGreatest(double[])
+comment3.params=dataSet
+comment3.target=double\ mode(double[])
+comment4.params=dataSet
+comment4.target=double\ populationStandardDeviation(double[])
+comment5.params=str
+comment5.target=boolean\ findKeyWord(java.lang.String)
+comment6.params=sentence
+comment6.target=java.lang.String\ cutSentence(java.lang.String)
+comment7.params=word
+comment7.target=void\ searchWord(java.lang.String)
+numComments=8

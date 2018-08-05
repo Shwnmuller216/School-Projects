@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=AI
+comment1.params=
+comment1.target=AI()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ AI\r\n
+comment2.params=A1\ A2\ A3
+comment2.target=java.lang.String\ answer(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment3.params=sentence
+comment3.target=java.lang.String\ WordSelecter(java.lang.String)
+comment4.params=word\ A
+comment4.target=double\ correlation(java.lang.String,\ java.lang.String)
+comment5.params=question\ A
+comment5.target=void\ searchWord(java.lang.String,\ java.lang.String)
+comment6.params=
+comment6.target=void\ fillbrain()
+comment7.params=word
+comment7.target=double\ stats(java.lang.String)
+comment8.params=
+comment8.target=void\ main()
+numComments=9

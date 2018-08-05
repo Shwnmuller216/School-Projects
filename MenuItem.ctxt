@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=MenuItem
+comment1.params=
+comment1.target=java.lang.String\ getName()
+comment1.text=@return\ the\ name\ of\ the\ menu\ item
+comment2.params=
+comment2.target=double\ getPrice()
+comment2.text=@return\ the\ price\ of\ the\ menu\ item
+numComments=3
