@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=ManyMethods
+comment1.params=
+comment1.target=void\ main()
+comment2.params=num1\ num2\ num3
+comment2.target=int\ smallest(int,\ int,\ int)
+comment3.params=num4
+comment3.target=java.lang.String\ firstDigit(int)
+comment4.params=num5
+comment4.target=java.lang.String\ lastDigit(int)
+comment5.params=num6
+comment5.target=int\ Digit(int)
+comment6.params=word
+comment6.target=int\ countletters(java.lang.String)
+comment7.params=num8\ num9\ num10
+comment7.target=int\ average(int,\ int,\ int)
+numComments=8

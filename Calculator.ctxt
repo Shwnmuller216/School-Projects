@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Calculator
+comment1.params=power\ coefficent
+comment1.target=java.lang.String\ PowerRule(int,\ int)
+comment2.params=fx\ x
+comment2.target=java.lang.String\ ProductRule(int,\ int)
+numComments=3
