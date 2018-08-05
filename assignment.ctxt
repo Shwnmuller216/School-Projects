@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=assignment
+comment1.params=
+comment1.target=void\ main()
+comment2.params=arr
+comment2.target=java.lang.String\ findLongestWord(java.lang.String[])
+comment3.params=arr
+comment3.target=java.lang.String\ findShortestWord(java.lang.String[])
+comment4.params=arr\ str
+comment4.target=int\ countWordsEndingWith(java.lang.String[],\ java.lang.String)
+comment5.params=arr\ str
+comment5.target=int\ countWordsStartingWith(java.lang.String[],\ java.lang.String)
+numComments=6

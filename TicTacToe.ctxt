@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=TicTacToe
+comment0.text=\r\n\ \ \ \ \ A\ 3\ x\ 3\ tic-tac-toe\ board.\r\n
+comment1.params=
+comment1.target=TicTacToe()
+comment1.text=\r\n\ \ \ \ \ \ \ \ Constructs\ an\ empty\ board.\r\n
+comment2.params=i\ j\ player
+comment2.target=void\ set(int,\ int,\ java.lang.String)
+comment2.text=\r\n\ \ \ \ \ \ \ \ Sets\ a\ field\ in\ the\ board.\ The\ field\ must\ be\ unoccupied.\r\n\ \ \ \ \ \ \ \ @param\ i\ the\ row\ index\ \r\n\ \ \ \ \ \ \ \ @param\ j\ the\ column\ index\ \r\n\ \ \ \ \ \ \ \ @param\ player\ the\ player\ ("x"\ or\ "o")\r\n
+comment3.params=
+comment3.target=java.lang.String\ toString()
+comment3.text=Creates\ a\ string\ representation\ of\ the\ board,\ such\ as\r\n\ \ \ \ \ \ \ \ |x\ \ o|\r\n\ \ \ \ \ \ \ \ |\ \ x\ |\r\n\ \ \ \ \ \ \ \ |\ \ \ o|\r\n\ \ \ \ \ \ \ \ @return\ the\ string\ representation\r\n
+comment4.params=i\ j
+comment4.target=boolean\ out(int,\ int)
+comment5.params=str
+comment5.target=boolean\ win(java.lang.String)
+numComments=6

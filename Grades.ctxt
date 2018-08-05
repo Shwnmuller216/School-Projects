@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Grades
+comment1.params=
+comment1.target=void\ main()
+comment2.params=arr
+comment2.target=double\ printAverage(int[])
+comment3.params=arr
+comment3.target=int\ printAbove(int[])
+comment4.params=arr
+comment4.target=int\ printBelow(int[])
+numComments=5
